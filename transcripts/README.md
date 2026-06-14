@@ -12,3 +12,5 @@ Topics discussed:
 - Evaluating IoU, centroid error and calibration metrics
 
 ChatGPT conversation links will be added below.
+## Chat Links
+1. https://chatgpt.com/share/6a2ed8f0-a648-83ee-9a10-0ab5730d862e
